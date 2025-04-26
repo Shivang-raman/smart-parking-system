@@ -145,8 +145,10 @@ This script captures live frames from the camera, applies YOLO inference, and di
 8. 📊 Experimental Results
 After training and testing, the system achieved promising results:
 ***Check the colab notebook***
+   ![image](https://github.com/user-attachments/assets/5af03487-9a78-46cf-b04d-80d5774c2858)
 
-9. 🔮 Future Enhancements
+
+10. 🔮 Future Enhancements
 Possible improvements and extensions include:
 
 Fine-tuning the model with more training epochs and data augmentation techniques.
